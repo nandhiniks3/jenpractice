@@ -1,0 +1,4 @@
+http://35.194.20.150:8080/
+
+https://github.com/nandhiniks3/jenpractice.git
+/mingw64/bin/git
